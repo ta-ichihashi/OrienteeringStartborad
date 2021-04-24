@@ -1,1 +1,3 @@
 # OrienteeringStartborad
+
+mulka2の出力したスタートリストCSVファイルをもとに、スタートリストを一覧するWEBアプリケーションです。
